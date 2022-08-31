@@ -55,6 +55,7 @@ body {
 
 #addBtn:hover{
     background-color: var(--foreground);
+    color: var(--accent);
 }
 
 #groceryList{
