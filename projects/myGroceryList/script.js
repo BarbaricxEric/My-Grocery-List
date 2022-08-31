@@ -23,3 +23,5 @@ addBtn.addEventListener('click', e => {
         newGroceryInput.value = null
     }
 })
+
+groceries.map(grocery=>addGrocery(grocery))
